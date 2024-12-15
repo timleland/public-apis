@@ -1730,6 +1730,7 @@
 ### URL Shorteners
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [T.LY](https://t.ly/docs) | URL shortener and link management service | `apiKey`| Yes | Yes |
 | [1pt](https://github.com/1pt-co/api/blob/main/README.md) | A simple URL shortener | No | Yes | Yes |
 | [Bitly](http://dev.bitly.com/get_started.html) | URL shortener and link management | `OAuth`| Yes | Unknown |
 | [CleanURI](https://cleanuri.com/docs) | URL shortener service | No | Yes | Yes |
